@@ -12,7 +12,7 @@ La [Plataforma de Eventos](https://eventos.scrumlatamcomunidad.com/) SCRUM LATAM
 
 ### Stack de desarrollo
 
-Indico Software Stack technologies is based on:
+Las tecnologías del Stack de *Indico Software* se basan en:
 
 -   [Indico Software](https://getindico.io/).
 -   [Python](https://www.python.org/).
