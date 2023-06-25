@@ -8,7 +8,7 @@ The SCRUM LATAM Comunidad [Events Platform](https://eventos.scrumlatamcomunidad.
 
 # Screenshots
 
-![Indico Landing Page](https://github.com/macagua/slc-indico/raw/docs/docs/screenshot_indico_home.png)
+![Indico Landing Page](https://github.com/macagua/slc-indico/blob/main/docs/screenshot_indico_home.png?raw=true)
 
 ### Development Stack
 

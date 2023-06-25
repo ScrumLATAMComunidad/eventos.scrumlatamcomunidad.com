@@ -8,7 +8,7 @@ La [Plataforma de Eventos](https://eventos.scrumlatamcomunidad.com/) SCRUM LATAM
 
 # Captura de pantallas
 
-![Página de inicio de Indico](https://github.com/macagua/slc-indico/raw/docs/docs/screenshot_indico_home.png)
+![Página de inicio de Indico](https://github.com/macagua/slc-indico/blob/main/docs/screenshot_indico_home.png?raw=true)
 
 ### Stack de desarrollo
 
